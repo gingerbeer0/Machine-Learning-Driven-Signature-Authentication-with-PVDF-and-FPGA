@@ -80,6 +80,18 @@ and classifies them using machine learning to detect forged signatures.
 
 ---
 
+## Progress Pictures
+
+![chargeamp](https://github.com/user-attachments/assets/d0ffb33e-5f50-46db-bdd3-1be8e984971b)
+![1](https://github.com/user-attachments/assets/4f2190f4-081e-4b7c-a702-3df4801dd7f6)
+![ancircuit](https://github.com/user-attachments/assets/2c3f8b6a-bc57-4580-9543-1d79e5c0f861)
+![proto1](https://github.com/user-attachments/assets/4bc72636-2e6d-44a3-9007-d82d38b59a8a)
+![scope_36_filtered](https://github.com/user-attachments/assets/fa8cd858-499f-4bb3-94f9-8c9c343a780f)
+![5f](https://github.com/user-attachments/assets/8888ed50-489a-4fe3-ba96-16f9ffd5e57f)
+
+
+
+
 ## 🙌 Contribution
 
 This project is in its early stages. Contributions, ideas, or forks are very welcome!  
