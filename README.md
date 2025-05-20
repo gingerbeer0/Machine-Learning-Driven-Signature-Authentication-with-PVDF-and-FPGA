@@ -95,9 +95,4 @@ and classifies them using machine learning to detect forged signatures.
 
 
 
-## 🙌 Contribution
-
-This project is in its early stages. Contributions, ideas, or forks are very welcome!  
-Feel free to create issues or pull requests as needed.
-
 ---
