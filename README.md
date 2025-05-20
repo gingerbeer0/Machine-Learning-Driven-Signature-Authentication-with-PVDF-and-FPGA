@@ -5,7 +5,7 @@ This project captures physical handwriting patterns — including pressure and v
 and classifies them using machine learning to detect forged signatures.
 
 > 🚧 This project is currently under active development. More features, refinements, and hardware improvements will be added progressively.
-
+-> done.
 ---
 
 ## 📌 Project Overview
@@ -74,9 +74,9 @@ and classifies them using machine learning to detect forged signatures.
 - [x] Analog front-end complete
 - [x] Basic data acquisition
 - [x] Python ML pipeline
-- [ ] Real-time classification on embedded system
-- [ ] Add Bluetooth module for wireless signature transfer
-- [ ] Web dashboard for model feedback
+- [x] Real-time classification on embedded system
+- [x] Add Bluetooth module for wireless signature transfer
+- [x] Web dashboard for model feedback
 
 ---
 
@@ -88,6 +88,9 @@ and classifies them using machine learning to detect forged signatures.
 ![proto1](https://github.com/user-attachments/assets/4bc72636-2e6d-44a3-9007-d82d38b59a8a)
 ![scope_36_filtered](https://github.com/user-attachments/assets/fa8cd858-499f-4bb3-94f9-8c9c343a780f)
 ![5f](https://github.com/user-attachments/assets/8888ed50-489a-4fe3-ba96-16f9ffd5e57f)
+![image](https://github.com/user-attachments/assets/0247a262-69d0-4ab1-be52-fd775cb44d45)
+![image](https://github.com/user-attachments/assets/ae010767-e6bb-4891-83fe-55a6710d180e)
+![image](https://github.com/user-attachments/assets/c26a5505-5d0f-4f4f-8cf1-d1987ed8e910)
 
 
 
